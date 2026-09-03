@@ -1,0 +1,12 @@
+{
+  "name": "Screen Recorder with Floating Camera Bubble",
+  "description": "Web-based screen recorder with a draggable floating webcam bubble, real-time audio mixing, HTML5 canvas compositing, and instant video download.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
